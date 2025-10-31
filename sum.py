@@ -1,6 +1,5 @@
-#Adding of two numbers
-num1=float(input("Enter the first number:"))
-num2=float(input("Enter the second number:"))
-sum=num1 + num2
-print(sum)
+a=2
+b=3
+sum=a+b
+print("sum",sum)
 
